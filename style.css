@@ -1,0 +1,18 @@
+body {
+  background-color: grey;
+}
+
+h1 {
+    color: #22CCAA; /* Change to your desired color */
+}
+h2 {
+  color: blue;
+}
+ul {
+  margin: -10px;
+}
+p {
+  margin: 10px;
+  padding: 10px;
+  font-size: 16px;
+}
